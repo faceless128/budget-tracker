@@ -19,6 +19,7 @@ Offline functionality that automatically syncs when back online.
 Javascript
 Node.js
 Express
+Chart.js
 IndexedDB
 MongoDB
 Mongoose
