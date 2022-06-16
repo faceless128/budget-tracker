@@ -1,4 +1,4 @@
-# Budget Tracker
+# Watch Your Money
 
 ## Description
 A simple and quick budget tracker with offline functionality that can be installed as a web app.
