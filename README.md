@@ -32,7 +32,7 @@ Clone the repository and install any dependencies with NPM. Modify to your likin
 Enter and track your earnings and spending to stay afloat and avoid going into debt.
 
 ## Demonstration
-Here is a [Live Demonstration](https://faceless-budget-tracker.herokuapp.com)
+Here is a [Live Demonstration](https://faceless-watch-your-money.herokuapp.com)
 
 ## Screenshot
 ![Screenshot of a sample budget.](./screenshot.png)
